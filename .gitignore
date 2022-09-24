@@ -1,0 +1,13 @@
+*-backups/
+*.bak
+*-bak
+*-cache
+*~
+board/*.csv
+board/*.dsn
+board/*.net
+board/*.rules
+board/*.ses
+board/*.xml
+board/fabrication/*
+.DS_Store
