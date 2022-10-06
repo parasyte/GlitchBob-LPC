@@ -1,8 +1,11 @@
 # GlitchBob LPC
 
+![GlitchBob LPCv1 device fully assembled](./img/GlitchBob-LPCv1.jpg)
+
 Voltage glitching automation tool to break protection on NXP LPC microcontrollers.
 
 The glitch circuit can be controlled by a Raspberry Pi Pico or other low-cost development board.
+
 
 ## TODO
 
